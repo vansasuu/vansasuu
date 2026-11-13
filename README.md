@@ -115,7 +115,7 @@ At 2xCabs I built RESTful APIs in Node.js and Express for ride-booking and track
 
 <div align="center">
 
-Based in Sheffield, UK · [Email](mailto:Ayushwange11@gmail.com) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+Based in Sheffield, UK ·
 
 </div>
 
