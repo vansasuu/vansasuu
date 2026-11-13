@@ -7,7 +7,10 @@
 Building LLM-powered backend systems and exploring cloud and Kubernetes security.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ayushwange11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vansasuu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/72puDL8WiH/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-wange-54b882252/)
+[![CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1VHuDZXhS0TfERYXkqLus1t1StFBFVgIT/view?usp=sharing)
 
 </div>
 
@@ -97,6 +100,24 @@ Co-authored paper (Dec 2025) on an autoencoder-based framework that secures Kube
 
 ---
 
+## More on GitHub
+
+- [Hand-Gesture-Volume-Control](https://github.com/vansasuu/Hand-Gesture-Volume-Control) · Python
+- [GearSync](https://github.com/vansasuu/GearSync) · HTML
+- [neetcode-submissions](https://github.com/vansasuu/neetcode-submissions) · C++ · my NeetCode problem solutions
+
+---
+
+## Problem Solving
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/72puDL8WiH)](https://leetcode.com/u/72puDL8WiH/)
+
+</div>
+
+---
+
 ## Experience
 
 | Role | Where | When |
@@ -115,11 +136,6 @@ At 2xCabs I built RESTful APIs in Node.js and Express for ride-booking and track
 
 <div align="center">
 
-Based in Sheffield, UK ·
+Based in Sheffield, UK · [Email](mailto:Ayushwange11@gmail.com) · [GitHub](https://github.com/vansasuu) · [LeetCode](https://leetcode.com/u/72puDL8WiH/) · [LinkedIn](https://www.linkedin.com/in/ayush-wange-54b882252/) · [CV](https://drive.google.com/file/d/1VHuDZXhS0TfERYXkqLus1t1StFBFVgIT/view?usp=sharing)
 
 </div>
-
-<!--
-Optional GitHub stats card. Replace YOUR-USERNAME with your GitHub username, then delete the comment markers around the line below.
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true)
--->
